@@ -73,7 +73,7 @@ main{
 }
 .conta input::placeholder,
 .pessoas input::placeholder{
-    color: var(--green-300);
+    color: var(--green-400);
 }
 
 .conta:has(input:focus) div,
